@@ -18,7 +18,10 @@ h1{
   border-radius: 10px;
 }
 #billTotal{
-    font-family: 'Rajdhani', sans-serif;}
+    font-family: 'Rajdhani', sans-serif;
+    background-color: #f18973;
+    color: white;
+}
 div{
     line-height: 2.5em;
 }
